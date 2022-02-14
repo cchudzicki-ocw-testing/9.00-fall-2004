@@ -4,7 +4,12 @@ description: Slides for Lecture 4, including visual perception demonstrations of
   Hermann grid, color, edges, depth cues
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00-introduction-to-psychology-fall-2004/5fee42a9ef3013f79934f3e0b7b27990_l04_visntrodem04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Audio
+parent_title: Audio Lectures and Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l04_visntrodem04.pdf
+type: OCWFile
 uid: 5fee42a9-ef30-13f7-9934-f3e0b7b27990
 ---
