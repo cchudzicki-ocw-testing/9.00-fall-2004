@@ -11,6 +11,5 @@ parent_title: Audio Lectures and Notes
 parent_type: CourseSection
 resourcetype: Document
 title: h12iq.pdf
-type: OCWFile
 uid: 6973aff6-0c60-d533-b0cd-6aa883a75613
 ---

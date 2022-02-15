@@ -9,6 +9,5 @@ parent_title: Audio Lectures and Notes
 parent_type: CourseSection
 resourcetype: Document
 title: h22_23_eat_datra.pdf
-type: OCWFile
 uid: d3c13b19-61e8-cbb7-840a-918346aeb198
 ---

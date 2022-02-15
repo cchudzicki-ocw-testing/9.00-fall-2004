@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: jeopardy_midterm.pdf
-type: OCWFile
 uid: 2739c2d4-244a-e8fc-5479-5cce4425610e
 ---

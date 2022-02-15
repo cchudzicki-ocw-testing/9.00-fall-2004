@@ -10,6 +10,5 @@ parent_title: Audio Lectures and Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l05_attteachdemo.pdf
-type: OCWFile
 uid: 87a981ed-5a37-e277-cf64-cb7195138fe6
 ---

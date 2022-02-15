@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 2002_midterm.pdf
-type: OCWFile
 uid: d8127fbe-60b2-e3c8-d2ee-615c69b8a900
 ---

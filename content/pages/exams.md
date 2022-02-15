@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Exams
 title: Exams
-type: CourseSection
 uid: 2481893d-3213-a4de-428a-f1993dc1b3ad
 ---
 

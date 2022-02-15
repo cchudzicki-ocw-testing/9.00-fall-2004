@@ -10,6 +10,5 @@ parent_title: Audio Lectures and Notes
 parent_type: CourseSection
 resourcetype: Document
 title: h21_mental_illne.pdf
-type: OCWFile
 uid: dc9dbcf7-ed88-a962-56a1-c4637652f7c9
 ---

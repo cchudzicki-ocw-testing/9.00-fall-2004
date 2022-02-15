@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: badwriting.pdf
-type: OCWFile
 uid: b23ffdd2-5e89-aa0b-62cb-25bade8a5057
 ---

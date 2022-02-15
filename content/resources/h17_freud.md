@@ -10,6 +10,5 @@ parent_title: Audio Lectures and Notes
 parent_type: CourseSection
 resourcetype: Document
 title: h17_freud.pdf
-type: OCWFile
 uid: ed930353-af8f-01c4-9038-ceb6601c11b6
 ---

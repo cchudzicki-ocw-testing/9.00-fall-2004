@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: jeopardy_final.pdf
-type: OCWFile
 uid: 6acf2692-2b98-1195-e6b3-4eaa89cd397d
 ---

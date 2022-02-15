@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: review_ch13_15.pdf
-type: OCWFile
 uid: a0d4b08d-496d-331d-965a-4f9e0c4a19f3
 ---

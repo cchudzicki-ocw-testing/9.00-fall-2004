@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 1998_final.pdf
-type: OCWFile
 uid: eeca25e8-b53f-70ac-546e-a77f8b6fd598
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: review_ch10_14.pdf
-type: OCWFile
 uid: ff76cd7e-6b5a-824b-dfa3-f1b3ae6a0abe
 ---

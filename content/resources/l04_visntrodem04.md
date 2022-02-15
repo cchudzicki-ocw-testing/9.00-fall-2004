@@ -10,6 +10,5 @@ parent_title: Audio Lectures and Notes
 parent_type: CourseSection
 resourcetype: Document
 title: l04_visntrodem04.pdf
-type: OCWFile
 uid: 5fee42a9-ef30-13f7-9934-f3e0b7b27990
 ---

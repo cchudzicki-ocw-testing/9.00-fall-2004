@@ -12,6 +12,5 @@ parent_title: Audio Lectures and Notes
 parent_type: CourseSection
 resourcetype: Document
 title: h20b_mental_illn.pdf
-type: OCWFile
 uid: 10c2f01a-d071-c503-4871-0002c60c52ec
 ---

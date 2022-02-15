@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 2002_final.pdf
-type: OCWFile
 uid: 15e28366-ab08-088e-b070-cafdcd9973cd
 ---
