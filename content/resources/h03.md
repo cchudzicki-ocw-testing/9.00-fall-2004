@@ -7,6 +7,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00-introdu
 file_type: application/pdf
 learning_resource_types:
 - Lecture Audio
+ocw_type: OCWFile
 parent_title: Audio Lectures and Notes
 parent_type: CourseSection
 resourcetype: Document

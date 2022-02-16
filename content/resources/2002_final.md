@@ -5,6 +5,7 @@ description: This resource inlcudes 38 questions based on the psychological unde
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00-introduction-to-psychology-fall-2004/15e28366ab08088eb070cafdcd9973cd_2002_final.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

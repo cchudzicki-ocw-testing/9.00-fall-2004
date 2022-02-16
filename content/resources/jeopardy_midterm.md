@@ -5,6 +5,7 @@ description: This resource includes 7 questions based on Physiology, Perception,
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00-introduction-to-psychology-fall-2004/2739c2d4244ae8fc54795cce4425610e_jeopardy_midterm.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
