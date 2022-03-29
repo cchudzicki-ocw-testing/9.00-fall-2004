@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ce93eefc-6d70-128b-c787-6e7616800fde
 resourcetype: Document
 title: 2002_final.pdf
 uid: 15e28366-ab08-088e-b070-cafdcd9973cd

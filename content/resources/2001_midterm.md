@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ce93eefc-6d70-128b-c787-6e7616800fde
 resourcetype: Document
 title: 2001_midterm.pdf
 uid: 44d7504d-905d-38cc-3a14-815dfc38bc67

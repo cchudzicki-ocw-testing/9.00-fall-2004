@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Audio Lectures and Notes
 parent_type: CourseSection
+parent_uid: 4bea3636-59c8-1935-4dba-8135ed7facd3
 resourcetype: Document
 title: l04_visntrodem04.pdf
 uid: 5fee42a9-ef30-13f7-9934-f3e0b7b27990

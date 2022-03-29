@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ce93eefc-6d70-128b-c787-6e7616800fde
 resourcetype: Document
 title: review_ch11.pdf
 uid: c8d51691-5272-be89-da3b-8a080ef4cf67

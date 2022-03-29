@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Audio Lectures and Notes
 parent_type: CourseSection
+parent_uid: 4bea3636-59c8-1935-4dba-8135ed7facd3
 resourcetype: Document
 title: h19_sleep_dreams.pdf
 uid: 09f82c46-f81e-a786-8b5c-5e6d2f065039

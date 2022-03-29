@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dea1f4a9-d78f-23eb-128d-58c8375dab2e
 resourcetype: Document
 title: badwriting.pdf
 uid: b23ffdd2-5e89-aa0b-62cb-25bade8a5057
