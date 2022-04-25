@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Audio
@@ -32,8 +33,12 @@ videos:
   - ba5822f1-98ab-e439-b978-4a1f878c1031
   website: 9-00-introduction-to-psychology-fall-2004
 ---
-
 For each lecture, students are given a brief handout containing an outline, key questions, and points to ponder. Slides on visual perception and attention are also presented for lectures 4 and 5.
 
-{{< video-gallery "4bea3636-59c8-1935-4dba-8135ed7facd3" >}}
+Audio Lectures for this course are collected here: [Internet Archive Introduction to Psychology](https://archive.org/details/MIT9.00F04/)
 
+{{% resource_link "c1226be2-b57e-3b41-530e-71ea437c9f56" "h09_1.pdf" %}}
+
+ 
+
+{{< video-gallery "4bea3636-59c8-1935-4dba-8135ed7facd3" >}}
