@@ -43,7 +43,7 @@ Lecture 2 Handout
 
 Lecture 3 Handout
 
-Lecture 4 Handout
+{{% resource_link "bae74ad0-b47a-2aa5-9ce3-3d4aa1b5640f" "Lecture 4 Handout" %}}
 
 Lecture 5 Handout
 
