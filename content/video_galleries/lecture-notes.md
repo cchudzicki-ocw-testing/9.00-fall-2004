@@ -37,7 +37,7 @@ For each lecture, students are given a brief handout containing an outline, key 
 
 Audio Lectures for this course are collected here: [Internet Archive Introduction to Psychology](https://archive.org/details/MIT9.00F04/)
 
-{{% resource_link "c1226be2-b57e-3b41-530e-71ea437c9f56" "h09_1.pdf" %}}
+ 
 
  
 
