@@ -63,7 +63,3 @@ For each lecture, students are given a brief handout containing an outline, key 
 - {{% resource_link "10c2f01a-d071-c503-4871-0002c60c52ec" "Lecture 20 Handout" %}}
 - {{% resource_link "dc9dbcf7-ed88-a962-56a1-c4637652f7c9" "Lecture 21 Handout" %}}
 - {{% resource_link "77319a7c-7d25-ea97-49c7-7b4b2af47eff" "Lecture 22-23 Handout" %}}
-
- 
-
-video-gallery
