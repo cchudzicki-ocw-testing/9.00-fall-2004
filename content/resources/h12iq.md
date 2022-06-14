@@ -4,7 +4,7 @@ description: 'This resource includes the discussion on the topic: Individual dif
   are fundamentally important in ways that they were not when we were talking about
   memory or perception.'
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00-introduction-to-psychology-fall-2004/6973aff60c60d533b0cd6aa883a75613_h12iq.pdf
+file: /courses/9-00-introduction-to-psychology-fall-2004/6973aff60c60d533b0cd6aa883a75613_h12iq.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -30,3 +30,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+This resource includes the discussion on the topic: Individual differences are fundamentally important in ways that they were not when we were talking about memory or perception.

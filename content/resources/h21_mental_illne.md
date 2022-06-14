@@ -3,7 +3,7 @@ content_type: resource
 description: This resource talks about some of the causes of mental illness and some
   of the ways that we might treat mental illness.
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00-introduction-to-psychology-fall-2004/dc9dbcf7ed88a96256a1c4637652f7c9_h21_mental_illne.pdf
+file: /courses/9-00-introduction-to-psychology-fall-2004/dc9dbcf7ed88a96256a1c4637652f7c9_h21_mental_illne.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -29,3 +29,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+This resource talks about some of the causes of mental illness and some of the ways that we might treat mental illness.

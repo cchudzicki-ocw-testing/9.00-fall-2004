@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource examines what Freud did believe. It also inlcudes the
   discussion on the topic: the mind was a unitary thing.'
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00-introduction-to-psychology-fall-2004/ed930353af8f01c49038ceb6601c11b6_h17_freud.pdf
+file: /courses/9-00-introduction-to-psychology-fall-2004/ed930353af8f01c49038ceb6601c11b6_h17_freud.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -29,3 +29,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+This resource examines what Freud did believe. It also inlcudes the discussion on the topic: the mind was a unitary thing.
