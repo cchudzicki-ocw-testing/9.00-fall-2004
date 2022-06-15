@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Study materials section provides several forms of study materials: midterm
+  and final exams from previous terms, a set of "Jeopardy"-style questions for the
+  midterm and final exams, and review notes for several chapters of the textbook.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Exams section contains three quizes based on recitation sessions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

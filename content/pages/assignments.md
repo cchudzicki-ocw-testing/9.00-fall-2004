@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section contains four papers to test students understanding
+  of course material.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
