@@ -1,5 +1,8 @@
 ---
 content_type: video_gallery
+description: Lecture notes section contains brief handout containing an outline, key
+  questions, and points to ponder. Slides on visual perception and attention are also
+  presented.
 draft: false
 is_media_gallery: true
 learning_resource_types:
