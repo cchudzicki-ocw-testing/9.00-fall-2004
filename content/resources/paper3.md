@@ -6,6 +6,7 @@ file: /courses/9-00-introduction-to-psychology-fall-2004/f8177a9b50c1389252d0b3b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

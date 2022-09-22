@@ -5,6 +5,7 @@ description: This resource includes 22 questions based on the psychological unde
 file: /courses/9-00-introduction-to-psychology-fall-2004/97791981dbbe3f2ae3e8237d183be4e4_2003_midterm.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

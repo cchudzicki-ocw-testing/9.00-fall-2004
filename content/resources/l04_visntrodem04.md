@@ -6,6 +6,7 @@ file: /courses/9-00-introduction-to-psychology-fall-2004/5fee42a9ef3013f79934f3e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Audio
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Audio Lectures and Notes
 parent_type: CourseSection
