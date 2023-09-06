@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec12.mp4
+title: '12. Intelligence: How Do We Know You Are Smart? (audio only)'
 uid: 245986c5-662d-4715-8243-f1cadb673f74
 video_files:
   archive_url: ''
