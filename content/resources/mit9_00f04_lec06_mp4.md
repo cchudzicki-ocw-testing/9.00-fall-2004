@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec06.mp4
+title: '6. Perceiving: Interpreting the Information (audio only)'
 uid: f790cbfe-79b5-40ab-b27e-5277610258da
 video_files:
   archive_url: ''
