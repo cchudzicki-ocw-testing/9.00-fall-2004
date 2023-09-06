@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec15.mp4
+title: '15. Attitudes and Behaviors: How Can We Be Controlled? (audio only)'
 uid: 9aba8c40-73cd-40cb-b421-b9e07bdbe9f3
 video_files:
   archive_url: ''
