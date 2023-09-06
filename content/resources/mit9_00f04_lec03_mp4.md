@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec03.mp4
+title: '3. Learning: The Power of Association (audio only)'
 uid: 1f771271-94ae-4a8a-b72a-9dd8cade7766
 video_files:
   archive_url: ''
