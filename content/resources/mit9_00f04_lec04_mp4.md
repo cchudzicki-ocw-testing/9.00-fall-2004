@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec04.mp4
+title: '4. Sensing: Gathering the Information (audio only)'
 uid: e02b61e6-12d8-4435-86f3-3cd13eb5c25d
 video_files:
   archive_url: ''
