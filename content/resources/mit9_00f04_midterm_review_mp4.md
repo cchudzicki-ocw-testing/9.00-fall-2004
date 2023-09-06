@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_midterm_review.mp4
+title: Midterm Review (audio only)
 uid: 7933638a-383c-46bd-91d1-51d4a506e8f8
 video_files:
   archive_url: ''
