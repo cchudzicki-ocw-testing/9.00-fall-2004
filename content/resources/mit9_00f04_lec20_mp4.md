@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec20.mp4
+title: '20. Defining Mental Illness: Are Suicide Bombers Insane? (audio only)'
 uid: 94aadb25-e795-4dd2-b7b0-3cddbd1679d6
 video_files:
   archive_url: ''
