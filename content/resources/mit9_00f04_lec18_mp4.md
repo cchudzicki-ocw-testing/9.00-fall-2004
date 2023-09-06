@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec18.mp4
+title: 18. Freud and Fairy Tales (audio only)
 uid: 9610e509-ced6-4b2e-bd65-65a196771cbc
 video_files:
   archive_url: ''
