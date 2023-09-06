@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec23.mp4
+title: '23. Successful Disasters: Date Rape (audio only)'
 uid: 9cd77a6a-20d4-4b5e-9ed3-88725e6aa4a0
 video_files:
   archive_url: ''
