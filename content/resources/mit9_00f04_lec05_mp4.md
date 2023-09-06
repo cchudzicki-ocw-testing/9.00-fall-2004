@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec05.mp4
+title: '5. Attending: Limiting the Information (audio only)'
 uid: 81bb0937-15d6-4f4d-954e-4886c7f91720
 video_files:
   archive_url: ''
