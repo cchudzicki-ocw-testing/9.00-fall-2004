@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/9-00-introduction-to-psychology-fall-2004/1YuuC5edaPqlZCEi71O9V1RtKse5myned/mit9_00f04_lec20.mp4
+file: /courses/9-00-introduction-to-psychology-fall-2004/mit9_00f04_lec20_360p_16_9.mp4
 file_size: 985879114
 file_type: video/mp4
 image_metadata:
@@ -16,12 +16,12 @@ title: MIT9_00F04_lec20.mp4
 uid: 94aadb25-e795-4dd2-b7b0-3cddbd1679d6
 video_files:
   archive_url: ''
-  video_captions_file: ''
-  video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_captions_file: /courses/9-00-introduction-to-psychology-fall-2004/1YuuC5edaPqlZCEi71O9V1RtKse5myned_transcript.webvtt
+  video_thumbnail_file: https://img.youtube.com/vi/0zijwkFuwbo/default.jpg
+  video_transcript_file: /courses/9-00-introduction-to-psychology-fall-2004/1YuuC5edaPqlZCEi71O9V1RtKse5myned_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: 0zijwkFuwbo
 ---
