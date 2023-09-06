@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec19.mp4
+title: 19. Sleep and Dreams (audio only)
 uid: a3c4b480-55a7-4962-a093-d50393fff70d
 video_files:
   archive_url: ''
