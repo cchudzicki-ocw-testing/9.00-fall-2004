@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec16.mp4
+title: 16. Who Are you? The Psychology of the Self (audio only)
 uid: b702f579-66e1-449a-a87e-e8930acc9bc0
 video_files:
   archive_url: ''
