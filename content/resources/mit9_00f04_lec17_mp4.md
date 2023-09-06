@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec17.mp4
+title: 17. From Dissociation To Repression (audio only)
 uid: 6d193d60-63d9-4e30-ae16-c251f383c24d
 video_files:
   archive_url: ''
