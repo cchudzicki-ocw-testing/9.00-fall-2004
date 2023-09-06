@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec21.mp4
+title: '21. Causing Mental Illness: What Can Make You "Lose" Your Mind? (audio only)'
 uid: 1573cff1-450c-4068-b118-be52a4a89eaf
 video_files:
   archive_url: ''
