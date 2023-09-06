@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec07.mp4
+title: '7. Memory: What Do You Remember? (audio only)'
 uid: b92786e3-1cf9-49b5-8082-0eaad5e0a78d
 video_files:
   archive_url: ''
