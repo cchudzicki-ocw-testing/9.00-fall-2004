@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec14.mp4
+title: '14. Social Exchange: Romantic Economics (audio only)'
 uid: 13e8b420-81c1-4861-9981-5c98335f251e
 video_files:
   archive_url: ''
