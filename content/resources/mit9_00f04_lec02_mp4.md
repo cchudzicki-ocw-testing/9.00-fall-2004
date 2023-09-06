@@ -12,7 +12,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec02.mp4
+title: '2. Motivation and Emotion: "Reason Alone Cannot Move Us To Do Anything" (audio
+  only)'
 uid: b6b2dcdf-43e3-4676-845b-7ba58084d72c
 video_files:
   archive_url: ''
