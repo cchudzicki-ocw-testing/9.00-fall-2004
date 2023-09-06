@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec08.mp4
+title: '8. Cognition: How Do You Think? (audio only)'
 uid: 5d2986f7-ce81-4336-a57c-4c7671670e9b
 video_files:
   archive_url: ''
