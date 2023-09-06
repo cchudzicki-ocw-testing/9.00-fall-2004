@@ -37,10 +37,6 @@ videos:
   - 9cd77a6a-20d4-4b5e-9ed3-88725e6aa4a0
   website: 9-00-introduction-to-psychology-fall-2004
 ---
-## Audio Lectures
-
-Audio Lectures for this course are collected here: [Internet Archive Introduction to Psychology](https://archive.org/details/MIT9.00F04/)
-
 ## Lecture Handouts
 
 For each lecture, students are given a brief handout containing an outline, key questions, and points to ponder. Slides on visual perception and attention are also presented for lectures 4 and 5.
