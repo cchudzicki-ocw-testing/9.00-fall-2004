@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec22.mp4
+title: '22. Successful Disasters: Eating Disorders (audio only)'
 uid: 4f6449e3-d52b-4f28-811c-3ec8116a4118
 video_files:
   archive_url: ''
