@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec13.mp4
+title: '13. The Battle of the Sexes: Love and Evolution (audio only)'
 uid: c272f214-4cb1-4524-aa7c-a2cbab827224
 video_files:
   archive_url: ''
