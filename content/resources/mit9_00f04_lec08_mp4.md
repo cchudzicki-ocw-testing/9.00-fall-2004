@@ -16,9 +16,9 @@ title: '8. Cognition: How Do You Think? (audio only)'
 uid: 5d2986f7-ce81-4336-a57c-4c7671670e9b
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/9-00-introduction-to-psychology-fall-2004/1Eja9K0eSyqlx5ZOVMWwjfR-Ok3kwj1pr_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/-gFz4HL_uhA/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/9-00-introduction-to-psychology-fall-2004/1Eja9K0eSyqlx5ZOVMWwjfR-Ok3kwj1pr_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
