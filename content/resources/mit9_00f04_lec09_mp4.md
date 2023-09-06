@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MIT9_00F04_lec09.mp4
+title: '9. Cognitive Development: How Do Children Think? (audio only)'
 uid: 683204f2-ef1b-497b-89e4-dd13846564fd
 video_files:
   archive_url: ''
