@@ -64,4 +64,4 @@ For each lecture, students are given a brief handout containing an outline, key 
 - {{% resource_link "dc9dbcf7-ed88-a962-56a1-c4637652f7c9" "Lecture 21 Handout" %}}
 - {{% resource_link "d3c13b19-61e8-cbb7-840a-918346aeb198" "Lecture 22-23 Handout" %}}
 
-### Audio Lectures
+## Audio Lectures
